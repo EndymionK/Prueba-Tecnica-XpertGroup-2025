@@ -1,0 +1,5 @@
+# Requisitos para el entorno del proyecto XpertGroup 2025
+pandas==2.2.2
+jupyter==1.0.0
+ydata-profiling==4.7.0
+ipython==8.24.0
